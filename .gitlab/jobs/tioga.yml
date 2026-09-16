@@ -1,0 +1,2 @@
+component-smoke:
+  extends: .job_on_tioga

@@ -5,7 +5,10 @@ open-source software developed at the LLNL. These tools and libraries cover a
 wide range of features a team would need to develop a modern simulation code
 targeting HPC platforms.
 
-Radiuss Shared CI Test is a mock project dedicated to testing RADIUSS Shared CI.
+Radiuss Shared CI Test is a mock project dedicated to testing the RADIUSS
+Shared CI GitLab components. Its pipeline runs a lightweight smoke test through
+the Dane, Matrix, Corona, Tioga, and Tuolumne components. GitHub pull requests
+are synchronized to the LLNL GitLab mirror through Hubcast.
 
 ## Getting Started
 
@@ -47,5 +50,4 @@ SPDX-License-Identifier: (MIT)
 LLNL-CODE-793462
 
 ## Acknowledgments
-
 
