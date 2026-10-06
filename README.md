@@ -31,7 +31,7 @@ version: 1.0.0
 
 ## Authors
 
-Adrien M Bernede
+Adrien M. Bernede
 
 See also the list of [contributors](https://github.com/LLNL/radiuss-shared-ci/contributors) who participated in this project.
 
